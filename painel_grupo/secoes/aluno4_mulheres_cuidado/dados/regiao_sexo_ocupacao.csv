@@ -1,0 +1,25 @@
+ano,regiao,sexo,ocupacao,horas
+2022,Brasil,Homens,Ocupado,11.0
+2022,Norte,Homens,Ocupado,11.1
+2022,Nordeste,Homens,Ocupado,11.0
+2022,Sudeste,Homens,Ocupado,11.3
+2022,Sul,Homens,Ocupado,10.7
+2022,Centro-Oeste,Homens,Ocupado,9.9
+2022,Brasil,Homens,Não ocupado,13.4
+2022,Norte,Homens,Não ocupado,12.6
+2022,Nordeste,Homens,Não ocupado,13.1
+2022,Sudeste,Homens,Não ocupado,14.0
+2022,Sul,Homens,Não ocupado,13.4
+2022,Centro-Oeste,Homens,Não ocupado,12.0
+2022,Brasil,Mulheres,Ocupado,17.8
+2022,Norte,Mulheres,Ocupado,17.6
+2022,Nordeste,Mulheres,Ocupado,19.7
+2022,Sudeste,Mulheres,Ocupado,17.8
+2022,Sul,Mulheres,Ocupado,16.2
+2022,Centro-Oeste,Mulheres,Ocupado,16.3
+2022,Brasil,Mulheres,Não ocupado,24.5
+2022,Norte,Mulheres,Não ocupado,22.4
+2022,Nordeste,Mulheres,Não ocupado,25.9
+2022,Sudeste,Mulheres,Não ocupado,25.0
+2022,Sul,Mulheres,Não ocupado,22.5
+2022,Centro-Oeste,Mulheres,Não ocupado,21.8

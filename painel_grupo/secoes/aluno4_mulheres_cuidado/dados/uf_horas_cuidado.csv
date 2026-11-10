@@ -1,0 +1,33 @@
+ano,uf,sigla,regiao,sexo,horas
+2022,Alagoas,AL,Nordeste,Total,20.2
+2022,Ceará,CE,Nordeste,Total,19.5
+2022,Pernambuco,PE,Nordeste,Total,19.3
+2022,Paraíba,PB,Nordeste,Total,18.9
+2022,Sergipe,SE,Nordeste,Total,18.8
+2022,Rio Grande do Norte,RN,Nordeste,Total,18.3
+2022,Piauí,PI,Nordeste,Total,18.0
+2022,Bahia,BA,Nordeste,Total,17.8
+2022,Minas Gerais,MG,Sudeste,Total,17.5
+2022,Espírito Santo,ES,Sudeste,Total,17.1
+2022,São Paulo,SP,Sudeste,Total,17.1
+2022,Rondônia,RO,Norte,Total,17.0
+2022,Amazonas,AM,Norte,Total,16.8
+2022,Maranhão,MA,Nordeste,Total,16.7
+2022,Rio de Janeiro,RJ,Sudeste,Total,16.7
+2022,Pará,PA,Norte,Total,16.5
+2022,Santa Catarina,SC,Sul,Total,16.0
+2022,Tocantins,TO,Norte,Total,15.8
+2022,Paraná,PR,Sul,Total,15.4
+2022,Rio Grande do Sul,RS,Sul,Total,15.4
+2022,Mato Grosso do Sul,MS,Centro-Oeste,Total,15.3
+2022,Goiás,GO,Centro-Oeste,Total,15.2
+2022,Distrito Federal,DF,Centro-Oeste,Total,15.1
+2022,Mato Grosso,MT,Centro-Oeste,Total,14.2
+2022,Acre,AC,Norte,Total,13.6
+2022,Roraima,RR,Norte,Total,13.6
+2022,Amapá,AP,Norte,Total,13.6
+2019,Espírito Santo,ES,Sudeste,Total,16.6
+2019,Espírito Santo,ES,Sudeste,Homens,11.3
+2019,Espírito Santo,ES,Sudeste,Mulheres,21.0
+2022,Espírito Santo,ES,Sudeste,Homens,11.9
+2022,Espírito Santo,ES,Sudeste,Mulheres,21.5
